@@ -1,0 +1,89 @@
+
+body{
+  font-family: "Inter", sans-serif;
+ 
+}
+
+.w-100{
+    width: 100%;
+}
+.px-16{
+    padding-inline: 16px;
+}
+.py-80{
+    padding-block-start: 30px;
+}
+.pye-74{
+    padding-block-end: 74px;
+}
+.mb-24{
+   margin-bottom: 24px;
+}
+.mb-8{
+    margin-bottom: 8px;
+}
+.mb-16{
+    margin-bottom: 16px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.text-purple{
+    color: #4F46E5;
+}
+.bg-purple{
+    background-color: #4F46E5;
+}
+.border-color{
+    border-color: #D1D5DB !important;
+}
+.btn{
+    width: 100% !important;
+}
+.mr-12{
+    margin-right: 12px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.line{
+  flex: 1;
+    height: 1px;
+    background-color: #E5E7EB;
+    /* margin: 0 12px; */
+    /* margin-top: 3px; */
+}
+.btn{
+    background-color: #4F46E5;
+
+}
+.button_group{
+    padding: .5rem;
+ cursor: pointer;
+}
+#basic-addon2{
+    background-color: transparent !important;
+    /* border: none !important; */
+}
+
+#pass{
+    border-right: 0;
+}
+.cursor-pointer{
+    cursor: 'pointer';
+}
+
+@media screen and (min-width:"768px") {
+    body{
+       background-color: red !important;
+    }
+}
+
+.parent{
+    width: 402px;
+    margin: 0 auto;
+}
+img{
+    object-fit: contain;
+    
+}
